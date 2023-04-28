@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: siameseFastTraining
+Version: 0.1.3
+Summary: Library for fast Siamese Network Training - ULTRADATA
+Author: Michel Davidovich
+Author-email: micheldc55@gmail.com
+Classifier: Development Status :: 1 - Alpha
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.9

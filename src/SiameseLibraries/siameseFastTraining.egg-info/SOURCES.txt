@@ -1,0 +1,11 @@
+setup.py
+siameseFastTraining/LossFunctions.py
+siameseFastTraining/Metrics.py
+siameseFastTraining/SiameseNetworks.py
+siameseFastTraining/__init__.py
+siameseFastTraining/utils.py
+siameseFastTraining.egg-info/PKG-INFO
+siameseFastTraining.egg-info/SOURCES.txt
+siameseFastTraining.egg-info/dependency_links.txt
+siameseFastTraining.egg-info/requires.txt
+siameseFastTraining.egg-info/top_level.txt
